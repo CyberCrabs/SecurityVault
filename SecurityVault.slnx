@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SecurityVault.Api/SecurityVault.Api.csproj" />
+  <Project Path="SecurityVault.Core/SecurityVault.Core.csproj" />
+  <Project Path="SecurityVault.Persistance/SecurityVault.Persistance.csproj" />
+</Solution>
